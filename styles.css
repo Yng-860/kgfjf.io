@@ -29,4 +29,20 @@ h1{
 #foto:hover{
     transform: scale(1.1);
     box-shadow: 15px 15px 10px grey;
+
+}
+a {
+    display: inline-block;
+    background-color: #4fa51e;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 17px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    transition: background-color 0.3s;
+    
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
 }
